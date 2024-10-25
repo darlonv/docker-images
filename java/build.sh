@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker built -t java .
+docker built -t darlon/java .
